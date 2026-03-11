@@ -1,0 +1,9 @@
+venv/ or .venv/
+pycache/
+*.pyc
+.pytest_cache/
+.idea/ or .vscode/
+db.sqlite3
+*.log
+*.egg-info/
+.env
